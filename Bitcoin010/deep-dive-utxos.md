@@ -1,6 +1,6 @@
 # Deep Dive: UTXOs
 
-Envision a world in which there were no pennies or coins and paper notes were exact chnage.
+Envision a world in which there were no pennies or coins and paper notes were exact change.
 
 For example, you go to the supermarket and you want to buy a drink for $1. You have a $20 note. You give the cashier a $20 note and for your \_change \_she gives you back a $19 note. You now have an unspent $19 note.
 
